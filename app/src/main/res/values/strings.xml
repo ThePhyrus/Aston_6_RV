@@ -1,3 +1,20 @@
 <resources>
     <string name="app_name">Aston_6_RV</string>
+    <string name="name">Name</string>
+    <string name="last_name">Last name</string>
+    <string name="phone_number">Phone number</string>
+    <string name="tv_name_placeholder_text">Name</string>
+    <string name="tv_lastname_placeholder_text">Lastname</string>
+    <string name="tv_phone_number_placeholder_text">Phone number</string>
+    <string name="enter_name">Enter name</string>
+    <string name="enter_lastname">Enter lastname</string>
+    <string name="enter_phone_number">Enter phone number</string>
+    <string name="save">Save</string>
+    <string name="tv_contact_details_text">Contact details:</string>
+    <string name="search">Search</string>
+    <string name="contact_image">Contact image</string>
+    <string name="fab">FAB</string>
+    <string name="alert_delete_contact">Delete contact?</string>
+    <string name="alert_positive_button_text">Yes</string>
+    <string name="alert_negative_button_text">No</string>
 </resources>

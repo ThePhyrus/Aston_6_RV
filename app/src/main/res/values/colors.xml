@@ -7,4 +7,16 @@
     <color name="teal_700">#FF018786</color>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+
+
+    <!--Mr.Colors-->
+    <color name="mr_card_color">#A75FFF</color>
+    <color name="mr_divider_center_color">#002CD1</color>
+    <color name="mr_divider_side_color">#6484FF</color>
+
+    <color name="red_orange">#FB8C6A</color>
+    <color name="black_gray">#606060</color>
+    <color name="light_orange">#FBBFBF</color>
+    <color name="orange">#ED5050</color>
+
 </resources>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <size android:height="@dimen/divider_line_height" />
+    <solid android:color="@color/mr_divider_side_color" />
+    <gradient android:centerColor="@color/mr_divider_center_color"/>
+</shape>
